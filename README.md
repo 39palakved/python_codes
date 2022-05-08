@@ -1,2 +1,1 @@
-# python_codes
-i develope this python code repository..............................................................................
+# python code
